@@ -1,6 +1,6 @@
 # Dashboard Power BI – Análisis de Ventas Internacionales
 ## Este repositorio contiene un dashboard desarrollado en Power BI Desktop para el análisis de ventas de una empresa con operaciones multinacionales y un portafolio amplio de productos. El proyecto integra modelado de datos, transformación mediante Power Query y medidas DAX optimizadas para visualizar indicadores clave de rendimiento (KPIs) y segmentaciones comerciales.
-## 🔧 Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ### 1. Origen y Transformación de Datos
 - Procesamiento de datos mediante **Power Query Editor**.
@@ -14,7 +14,7 @@
 
 ---
 
-## 📈 Funcionalidades del Dashboard
+## Funcionalidades del Dashboard
 - **KPIs globales**: ventas totales, conteo de clientes y países.
 - **Top 7 productos por ingresos**, con ordenamiento dinámico.
 - **Tendencia anual de ventas** mediante line chart con análisis comparativo.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Herramientas
 - **Power BI Desktop**
 - **Power Query (M Language)**
 - **DAX (Data Analysis Expressions)**
